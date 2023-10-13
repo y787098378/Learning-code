@@ -1,4 +1,4 @@
-旋翼拉力固定，控制器输出结果为力矩值
-位置环和控制分配并未设置
-![image](https://github.com/y787098378/Learning-code/assets/54844966/f87cab6a-0b37-47b0-bd3c-f1bd3e46a02e)
+四旋翼串级PID控制，位置环和姿态环均有。
+![image](https://github.com/y787098378/Learning-code/assets/54844966/955439d6-7d98-4cda-8e52-8aecc62dc83a)
+
 
